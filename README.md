@@ -1,1 +1,3 @@
-# agrigrade-iot-sensor
+# AgriGrade IoT Sensor
+
+Starter firmware files.
